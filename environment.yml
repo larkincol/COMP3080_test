@@ -1,0 +1,10 @@
+name: comp30670
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyterlab
+prefix: C:\Users\fu\anaconda3\envs\comp30670
